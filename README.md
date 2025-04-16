@@ -1,4 +1,4 @@
-# Pan Genome Sequence Analysis Project
+# Dat Hacks - Pan Genome Sequence Analysis Project
 
 This project analyzes genomic sequence data and their associated ODGF coordinates.
 
